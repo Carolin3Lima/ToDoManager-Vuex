@@ -1,24 +1,22 @@
-# vuex_todo_manager
+# To Do Manager - Vuex
+This is a Vue application with Vuex 
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![localhost img](https://github.com/LimaCarol/DadJokes-Vuex/master/assets/localhost.png)
+
+## Features
+- Vue.js
+- Node.js
+- Nuxt.js
+
+## Usage 
+
+### Start
+- Clone this repo to your desktop and run npm install to install all the dependencies.
+- Once the dependencies are installed, you can run npm run serve to start the application. You will then be able to access it at localhost:3000
 
 ### Compiles and minifies for production
-```
-npm run build
-```
+- npm run build
 
 ### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- npm run lint
