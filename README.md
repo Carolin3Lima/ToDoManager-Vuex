@@ -2,7 +2,7 @@
 This is a Vue application with Vuex 
 
 
-![localhost img](https://github.com/LimaCarol/ToDoManager-Vuex/master/src/assets/localhost.png)
+![localhost img](https://github.com/LimaCarol/ToDoManager-Vuex/blob/master/src/assets/localhost.png)
 
 ## Features
 - Vue.js
